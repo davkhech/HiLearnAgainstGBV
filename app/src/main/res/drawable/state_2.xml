@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/state_2_selected" android:state_checked="true" android:top="10dp"
+        android:bottom="10dp"
+        android:right="10dp"
+        android:left="10dp" />
+    <item android:drawable="@drawable/state_2_unselected"  android:state_checked="false"/>
+    <item>
+        <shape android:shape="rectangle">
+            <size android:width="30dp" android:height="40dp"/>
+            <solid android:color="#000000" />
+        </shape>
+    </item>
+</selector>

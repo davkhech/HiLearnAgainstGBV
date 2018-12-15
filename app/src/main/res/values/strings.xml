@@ -1,6 +1,28 @@
 <resources>
     <string name="app_name">HiLearnAgainstGBV</string>
-    <string name="title_home">Home</string>
+    <string name="title_home">Add a comment about the street section</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="dissatisfaction_level">How dissatisfied are you about this incident? (1 being very dissatisfied and 5 being satisfied)</string>
+    <string name="violence_type">Violence type</string>
+    <string name="radio_dissatisfied_1">1</string>
+    <string name="radio_dissatisfied_2">2</string>
+    <string name="radio_dissatisfied_3">3</string>
+    <string name="radio_dissatisfied_4">4</string>
+    <string name="radio_dissatisfied_5">5</string>
+    <string name="submit_button">Submit</string>
+
+    <string-array name="violence_type_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+    <color name="white">#FFFFFF</color>
 </resources>
